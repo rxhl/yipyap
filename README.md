@@ -6,6 +6,8 @@ Lightweight chat app built with React, Node and Socket.io.
 
 Go to https://yipyap.netlify.com/ and create a chat room by entering a username and room name. You can then share this room with another person to start chatting.
 
+![](/assets/yipyap.png)
+
 ### Development
 
 The project includes two sections: **client** (React app) and **server** (Node app). The client interacts with the server over a socket provided by socket.io library.
@@ -26,4 +28,4 @@ nodemon # starts the server on port 5000
 
 ### Deployment
 
-The client is deployed on Netlify and the server on Heroku.
+The client is deployed on [Netlify](https://www.netlify.com/) and the server on [Heroku](https://www.heroku.com/).
