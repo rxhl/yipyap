@@ -1,12 +1,12 @@
 # Yip Yap
 
-Lightweight chat app built with React, Node and Socket.io.
+A secure and lightweight chat app built with React, Node and Socket.io.
 
 ## Quick Start
 
-Go to https://yipyap.netlify.com/ and create a chat room by entering a username and room name. You can then share this room with another person to start chatting.
+Go to https://yipyap.netlify.com/ and create a chat room by entering a username and room name. You can then share this room with another person to start chatting. No data is stored on the server.
 
-<img src="/assets/yipyap.png" width="300px" />
+<img src="/assets/yipyap.png" width="350px" />
 
 ## Development
 
