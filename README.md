@@ -8,7 +8,7 @@ Go to https://yipyap.netlify.com/ and create a chat room by entering a username 
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 40px;">
   <img src="/assets/yipyap.png" width="350px" />
-  <img src="/assets/room.png" width="450px" />
+  <img src="/assets/room.png" width="480px" />
 </div>
 
 
