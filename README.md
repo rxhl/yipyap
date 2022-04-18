@@ -1,6 +1,6 @@
 # YipYap
 
-A secure and lightweight chat app built with React, Node and Socket.io.
+A lightweight chat app built with React, Node and Socket.io.
 
 ## Quick Start
 
